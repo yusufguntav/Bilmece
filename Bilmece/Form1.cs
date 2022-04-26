@@ -33,6 +33,37 @@ namespace Bilmece
             };
         List<int> Karisik_Sayi = new List<int>();
 
+        private void Sifirla(DialogResult DR)
+        {
+            if (DR == DialogResult.No)
+            {
+                button1.Enabled = false;
+                button2.Enabled = false;
+            }
+            else
+            {
+                Bilinen_Bilmece = 0;
+                
+                Soru_Adet = 0;
+                Pas_Hak = 3;
+                label4.Text = "Pas Hakkı: " + Pas_Hak;
+                dk = 1;
+                sn = 60;
+                gecen_sure = 0;
+                timer1.Start();
+                Karisik_Sayi.Clear();
+                for (int i = 0; i < Bilmeceler.Count();)
+                {
+                    int rast_sayi = rnd.Next(0, Bilmeceler.Count());
+                    if (!Karisik_Sayi.Contains(rast_sayi))
+                    {
+                        Karisik_Sayi.Add(rast_sayi);
+                        i++;
+                    }
+                }
+                label1.Text = Bilmeceler.ElementAt(Karisik_Sayi[Soru_Adet]).Key;
+            }
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -50,7 +81,6 @@ namespace Bilmece
             // Bilmece Yazdırma
             label1.Text = Bilmeceler.ElementAt(Karisik_Sayi[Soru_Adet]).Key;
 
-
             timer1.Start();
         }
 
@@ -65,16 +95,16 @@ namespace Bilmece
                 label3.Text = "Bilinen Bilmece: " + Bilinen_Bilmece;
                 label1.Text = Bilmeceler.ElementAt(Karisik_Sayi[Soru_Adet]).Key;
             }
-                // Son Bilmeceyse
+            // Son Bilmeceyse
             else if ((textBox1.Text == Bilmeceler.ElementAt(Karisik_Sayi[Soru_Adet]).Value) && Soru_Adet == Bilmeceler.Count() - 1)
             {
                 Bilinen_Bilmece++;
                 Debug.Print("Tebrikler!");
                 label3.Text = "Bilinen Bilmece: " + Bilinen_Bilmece;
                 timer1.Stop();
-                MessageBox.Show("Bütün Bilmeceler Bitti.\nBilinen Bilmece:" + Bilinen_Bilmece + "  Geçen Süre:" +gecen_sure+ "sn\nTekrar Oynamak İstiyor musunuz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
-                button1.Enabled = false;
-                button2.Enabled = false;
+                DialogResult DR = MessageBox.Show("Bütün Bilmeceler Bitti.\nBilinen Bilmece:" + Bilinen_Bilmece + "  Geçen Süre:" + gecen_sure + "sn\nTekrar Oynamak İstiyor musunuz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+
+                Sifirla(DR);
             }
 
             textBox1.Clear();
@@ -93,16 +123,14 @@ namespace Bilmece
 
             // Zamanlayıcı
             sn--;
-            if (sn == 0 && dk == 0)
-            {
-                timer1.Stop();
-            }
-            else if (sn == 0)
+           
+            if (sn == 0 && dk != 0)
             {
                 dk--;
                 sn = 60;
             }
-
+ 
+  
             // Görünüş
             if (sn < 10)
             {
@@ -123,6 +151,17 @@ namespace Bilmece
             }
 
             label2.Text = "Süre: " + Strdk + ":" + Strsn;
+
+            // Süre doldu mu (Kontrol)
+            if (sn == 0 && dk == 0)
+            {
+                timer1.Stop();
+
+                DialogResult DR = MessageBox.Show("Süreniz Bitti.\nBilinen Bilmece:" + Bilinen_Bilmece + "  Geçen Süre:" + gecen_sure + "sn\nTekrar Oynamak İstiyor musunuz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+                Sifirla(DR);
+            }
+
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -131,9 +170,9 @@ namespace Bilmece
             if (Soru_Adet == Bilmeceler.Count() - 1)
             {
                 timer1.Stop();
-                MessageBox.Show("Bütün Bilmeceler Bitti.\nBilinen Bilmece:" + Bilinen_Bilmece + "  Geçen Süre:" + gecen_sure + "sn\nTekrar Oynamak İstiyor musunuz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
-                button1.Enabled = false;
-                button2.Enabled = false;
+                DialogResult DR = MessageBox.Show("Bütün Bilmeceler Bitti.\nBilinen Bilmece:" + Bilinen_Bilmece + "  Geçen Süre:" + gecen_sure + "sn\nTekrar Oynamak İstiyor musunuz?", "Dikkat!", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+
+                Sifirla(DR);
             }
             else if (Pas_Hak == 0)
             {
@@ -146,6 +185,7 @@ namespace Bilmece
                 label1.Text = Bilmeceler.ElementAt(Karisik_Sayi[Soru_Adet]).Key;
                 label4.Text = "Pas Hakkı: " + Pas_Hak;
             }
+
         }
     }
 }

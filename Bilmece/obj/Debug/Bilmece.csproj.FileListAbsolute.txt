@@ -18,3 +18,13 @@ C:\Users\YUSUF\Desktop\NTP_Proje\BilmeceV1\Bilmece\obj\Debug\Bilmece.csproj.Gene
 C:\Users\YUSUF\Desktop\NTP_Proje\BilmeceV1\Bilmece\obj\Debug\Bilmece.csproj.CoreCompileInputs.cache
 C:\Users\YUSUF\Desktop\NTP_Proje\BilmeceV1\Bilmece\obj\Debug\Bilmece.exe
 C:\Users\YUSUF\Desktop\NTP_Proje\BilmeceV1\Bilmece\obj\Debug\Bilmece.pdb
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe.config
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.pdb
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.AssemblyReference.cache
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Form1.resources
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Properties.Resources.resources
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.GenerateResource.cache
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.exe
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.pdb
