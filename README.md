@@ -1,2 +1,0 @@
-# Bilmece
-Bilmece Oyunu
