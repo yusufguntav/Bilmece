@@ -22,9 +22,102 @@ C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe.config
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.pdb
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.AssemblyReference.cache
-C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Form1.resources
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Properties.Resources.resources
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.GenerateResource.cache
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.CoreCompileInputs.cache
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.exe
 C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.pdb
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\bin\Debug\Bilmece.exe.config
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\bin\Debug\Bilmece.exe
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\bin\Debug\Bilmece.pdb
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\obj\Debug\Bilmece.csproj.AssemblyReference.cache
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\obj\Debug\Bilmece.Form1.resources
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\obj\Debug\Bilmece.Properties.Resources.resources
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\obj\Debug\Bilmece.csproj.GenerateResource.cache
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\obj\Debug\Bilmece.csproj.CoreCompileInputs.cache
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\obj\Debug\Bilmece.exe
+C:\Users\Lab1-10\Desktop\Bilmece-master\Bilmece\obj\Debug\Bilmece.pdb
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Web.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Google.Protobuf.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\ZstdNet.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Memory.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Buffers.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.xml
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Web.xml
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.exe.config
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.CopyComplete
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Oyun.resources
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Menü.resources
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Kayıt.resources
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.SkorTablosu.resources
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe.config
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.pdb
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.EntityFramework.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Web.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Google.Protobuf.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\ZstdNet.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\BouncyCastle.Crypto.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Ubiety.Dns.Core.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Memory.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Buffers.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Compression.LZ4.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Hash.xxHash.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Numerics.Vectors.dll
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.xml
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.EntityFramework.xml
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Web.xml
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.AssemblyReference.cache
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.exe.config
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Kayıt.resources
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Oyun.resources
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Menü.resources
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Properties.Resources.resources
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.SkorTablosu.resources
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.GenerateResource.cache
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.CoreCompileInputs.cache
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.CopyComplete
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.exe
+E:\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.pdb
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe.config
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.exe
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Bilmece.pdb
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Web.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Google.Protobuf.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\ZstdNet.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Memory.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Buffers.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.xml
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\bin\Debug\MySql.Web.xml
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.AssemblyReference.cache
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.exe.config
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Kayıt.resources
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Oyun.resources
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Menü.resources
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.Properties.Resources.resources
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.SkorTablosu.resources
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.GenerateResource.cache
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.csproj.CopyComplete
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.exe
+C:\Users\YUSUF\Desktop\Proje\Yusuf Güntav 276\NTPPROJE\NTP_Proje\Bilmece\Bilmece\obj\Debug\Bilmece.pdb

@@ -1,1 +1,0 @@
-Basit bir bilmece oyunu 👻👽

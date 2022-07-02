@@ -1,0 +1,5 @@
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Release\Bilmece.exe.config
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Release\Bilmece.Form1.resources
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Release\Bilmece.Properties.Resources.resources
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Release\Bilmece.csproj.GenerateResource.cache
+C:\Users\YUSUF\Desktop\NTP_Proje\Bilmece\Bilmece\obj\Release\Bilmece.csproj.CoreCompileInputs.cache
